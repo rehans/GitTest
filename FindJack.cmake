@@ -1,6 +1,3 @@
-# SDKInclusion : Vst3Sdk
-# SDKInclusion : Vst3Sdk
-
 # - Try to find Jack Audio Libraries
 # libjack; libjackserver;
 # Once done this will define
